@@ -4258,3 +4258,13 @@ h1.header-89 { margin-bottom:30px;}
     bottom: 20px;
     width: 100%;
 }
+
+.bottom .marcaregistrada{
+  text-align: left;
+  float: left;
+}
+
+.bottom .conamor{
+  float: right;
+  text-align: right;
+}
